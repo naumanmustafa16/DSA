@@ -1,4 +1,4 @@
-
+# O(N^2)
 def bubble_sort(arr)
   
   sorted = false
